@@ -1,0 +1,9 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Weekly Report Generator
+description: Generate weekly team reports in batches based on DingDing's export files
+
+show_downloads: true #["true" or "false" (unquoted) to indicate whether to provide a download URL]
+#google_analytics: [Your Google Analytics tracking ID]
