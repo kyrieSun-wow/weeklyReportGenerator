@@ -1,0 +1,32 @@
+###
+   请把每个组成员的中文名及对应的英文名按照以下格式进行配置：
+    
+    # xxx team
+    小明 xiaoMing
+    ...... 
+
+    注：1.可按需新增，修改，删除成员甚至team。
+          2.每个team内成员的顺序即是生成表格时相对应的成员先后顺序。
+ 
+###
+
+
+
+# MME team
+陈建德 ChenJianDe
+何暖芬 HeNuanFen
+李明恩 LiMingEn
+崔铭书 CuiMingShu
+马镇峰 MaZhenFeng
+陈嘉雯 ChenJiaWen
+钟荣斌 ZhongRongBin
+孙剑华 SunJianHua
+
+# AMF team
+王烁俊 WangShuoJun
+王炳昌 WangBingChang
+林旭涛 LinXuTao
+岑展宇 CenZhanYu
+冯涛宇 FengTaoYu
+陈浩辉 ChenHaoHui
+郑明智 ZhengMingZhi
